@@ -1,5 +1,7 @@
 # Predictive Maintenance Framework for Metro do Porto's APU System
 
+This project is co-authored by — Karthick Vel, Pritesh Singh, Rathil Madihalli, Sanyam Jain and Vishal Anand Gupta.
+
 ## Abstract
 
 This repository contains the research and implementation of a data-driven predictive maintenance framework for the Air Production Unit (APU) system within Metro do Porto trains. Utilizing deep learning autoencoder networks, this framework aims to identify machinery failures early, reducing false alarms and enhancing maintenance efficiency.
